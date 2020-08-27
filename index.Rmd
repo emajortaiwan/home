@@ -1,0 +1,52 @@
+---
+title: "EMajor首頁"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(httr)
+library(dplyr)
+library(emajorDV)
+```
+
+Column
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+htmltools::HTML("<iframe src='https://vimeo.com/showcase/7098473/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe>")
+```
+
+Row
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+gs <- emajorDV::githubService()
+gs$auth()-> token
+gs$getProjects(token) -> projects
+
+purrr::map_dfr(
+  projects,
+  ~.x[c("name","body")]
+) %>%
+  rename(
+    'project'='name',
+    'content'='body'
+  ) %>%
+  DT::datatable()
+```
+
+
+### Chart C
+
+```{r}
+
+```
+
