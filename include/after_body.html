@@ -1,0 +1,23 @@
+<script type="text/javascript">
+$(document).ready(function(){
+$.ajax({
+    type: 'GET',
+    url: './projects/project.json',
+    dataType: "json",
+    success: function(jsond){
+        console.log(jsond);
+        $("#example > table").dataTable({
+            data: jsond,
+            columns: [
+            {data: 'project'},
+            {data: 'content'}
+            ],
+            responsive: true
+
+        })
+
+    }
+})
+});
+
+</script>

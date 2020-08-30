@@ -4,47 +4,84 @@ output:
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
+    include:
+      in_header: ["./include/header.html"]
+params:
+  after_body: ["./include/after_body.html"]
 ---
+
+```{r serve, eval=F, include=FALSE, message=F}
+library(emajorDV)
+ws <- webService()
+ws$addJs2LatestHtmlServe()
+```
+
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
 library(httr)
 library(dplyr)
-library(emajorDV)
+
 ```
 
-Column
+Inputs {.sidebar}
+-------------------------------------
+
+
+Column {.tabset}
 -----------------------------------------------------------------------
 
-### Chart A
+### 專案內容{#projectDetail .project}
+
+### 課程影片{#courseVideos .course}
 
 ```{r}
 htmltools::HTML("<iframe src='https://vimeo.com/showcase/7098473/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe>")
 ```
 
-Row
+Column {.tabset}
 -----------------------------------------------------------------------
 
-### Chart B
+### 專案{#projects .project}
 
-```{r}
-gs <- emajorDV::githubService()
-gs$auth()-> token
-gs$getProjects(token) -> projects
+```{r updateJSON, include=FALSE}
+# library(drake)
 
-purrr::map_dfr(
-  projects,
-  ~.x[c("name","body")]
-) %>%
-  rename(
-    'project'='name',
-    'content'='body'
+updateJSON = {
+  gs <- emajorDV::githubService()
+  gs$auth()-> token
+  gs$getProjects(token) -> projects
+  
+  purrr::map_dfr(
+    projects,
+    ~.x[c("name","body")]
   ) %>%
-  DT::datatable()
+    rename(
+      'project'='name',
+      'content'='body'
+    ) -> df_projects
+  writeLines(
+    jsonlite::toJSON(df_projects),
+    con="./projects/project.json")
+  projects
+}
+
+
 ```
 
+<br>
+<div id="example">
+```{r}
+knitr::kable(
+  data.frame(
+    project=character(),
+    content=character()
+  )
+)
+```
+</div>
 
-### Chart C
+### 課程清單{#courseList .course}
 
 ```{r}
 

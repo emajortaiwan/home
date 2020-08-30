@@ -1,0 +1,39 @@
+---
+title: "EMajor首頁"
+output: 
+  html_document:
+    self_contained: false
+    include:
+      in_header: ["/Users/martin/Github/home/include/header.html"]
+params:
+  after_body: ["/Users/martin/Github/home/include/after_body.html"]
+---
+
+```{r serve, eval=F, include=FALSE, message=F}
+library(emajorDV)
+ws <- webService()
+ws$activeRmd_KnitAddJsServe()
+```
+
+```{css include=FALSE}
+.f32 .flag {
+        vertical-align: middle;
+        margin: -8px 0;
+    }
+ 
+progress {
+    width: 100%;
+}
+```
+
+<div id="example2">
+```{r, eval=T, echo=FALSE}
+library(DT)
+knitr::kable(
+  data.frame(
+    topic=character(),
+    description=character(),
+    date=character()
+  ))
+```
+</div>
