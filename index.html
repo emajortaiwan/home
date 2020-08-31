@@ -2881,8 +2881,8 @@ window.FlexDashboardComponents.push({
 <table>
 <thead>
 <tr class="header">
-<th align="left">project</th>
-<th align="left">content</th>
+<th align="left">專案名稱</th>
+<th align="left">專案內容</th>
 </tr>
 </thead>
 <tbody>
@@ -2892,8 +2892,21 @@ window.FlexDashboardComponents.push({
 </div>
 <div id="courseList" class="section level3 course">
 <h3>課程清單</h3>
+<div id="example2">
 <div class="knitr-options" data-fig-width="576" data-fig-height="460">
 
+</div>
+<table>
+<thead>
+<tr class="header">
+<th align="left">主題</th>
+<th align="left">內容</th>
+<th align="left">日期</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 </div>
 </div>
 </div>
@@ -2932,6 +2945,7 @@ $(document).ready(function () {
 });
 </script>
 
+<!-- datatable -->
 <script type="text/javascript">
 $(document).ready(function(){
 $.ajax({
@@ -2952,6 +2966,27 @@ $.ajax({
 
     }
 })
+
+$.ajax({
+    type: 'GET',
+    url: './course_info/courseList.json',
+    dataType: "json",
+    success: function(jsond){
+        console.log(jsond);
+        $("#example2 > table").dataTable({
+            data: jsond,
+            columns: [
+            {data: 'topic'},
+            {data: 'description'},
+            {data: 'date'}
+            ],
+            responsive: true
+
+        })
+
+    }
+})
+
 });
 
 </script>

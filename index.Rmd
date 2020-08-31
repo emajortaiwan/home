@@ -74,8 +74,8 @@ updateJSON = {
 ```{r}
 knitr::kable(
   data.frame(
-    project=character(),
-    content=character()
+    專案名稱=character(),
+    專案內容=character()
   )
 )
 ```
@@ -83,7 +83,14 @@ knitr::kable(
 
 ### 課程清單{#courseList .course}
 
+<div id="example2">
 ```{r}
-
+knitr::kable(
+  data.frame(
+    主題=character(),
+    內容=character(),
+    日期=character()
+  )
+)
 ```
-
+</div>
