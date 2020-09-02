@@ -2859,10 +2859,10 @@ window.FlexDashboardComponents.push({
 <div id="column" class="section level2 tabset">
 <h2>Column</h2>
 <div id="projectDetail" class="section level3 project">
-<h3>專案內容</h3>
+<h3><div class='projectGroup'>專案內容</div></h3>
 </div>
 <div id="courseVideos" class="section level3 course">
-<h3>課程影片</h3>
+<h3><div class='videoGroup'>課程影片</div></h3>
 <div class="knitr-options" data-fig-width="576" data-fig-height="460">
 
 </div>
@@ -2872,7 +2872,7 @@ window.FlexDashboardComponents.push({
 <div id="column-1" class="section level2 tabset">
 <h2>Column</h2>
 <div id="projects" class="section level3 project">
-<h3>專案</h3>
+<h3><div class='projectGroup'>專案</div></h3>
 <br>
 <div id="example">
 <div class="knitr-options" data-fig-width="576" data-fig-height="460">
@@ -2891,7 +2891,7 @@ window.FlexDashboardComponents.push({
 </div>
 </div>
 <div id="courseList" class="section level3 course">
-<h3>課程清單</h3>
+<h3><div class='videoGroup'>課程清單</div></h3>
 <div id="example2">
 <div class="knitr-options" data-fig-width="576" data-fig-height="460">
 
@@ -2986,6 +2986,10 @@ $.ajax({
 
     }
 })
+
+$(".projectGroup").click(function(){$(".projectGroup").parent().click()});
+
+$(".videoGroup").click(function(){$(".videoGroup").parent().click()});
 
 });
 
