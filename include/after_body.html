@@ -44,9 +44,23 @@ $(".projectGroup").click(function(){$(".projectGroup").parent().click()});
 
 $(".videoGroup").click(function(){$(".videoGroup").parent().click()});
 
- ((window.gitter = {}).chat = {}).options = {
-    room: 'E-Major/Lobby'
-  };
+//gitter sidecar
+/*
+$("#dashboard-container").append("<div id='gitterDiv'></div>");
+//$("body").append("<div id='gitterDiv'></div>");
+$("#gitterDiv").css("position","absolute !important;")
+  .css("z-index","3000 !important;");
 
+((window.gitter = {}).chat = {}).options = {
+    room: 'E-Major/Lobby',
+   targetElement: "#gitterDiv"
+  };
+*/
+$(".gitter-chat-embed").css("z-index","3000");
+
+});
 </script>
+
+<!--
 <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+-->
