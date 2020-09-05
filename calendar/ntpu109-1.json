@@ -1,0 +1,3304 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33cdttt9kqrem0g\"",
+ "summary": "國立臺北大學 109 學年度行事曆",
+ "description": "此日曆是由 dawn@ntpu.org 擷取自國立臺北大學第 109 學年度行事曆製作。\n\n分享這個日曆：https://ntpu.org/109date\n回報日曆錯誤：https://cic.ntpu.org/dawn",
+ "updated": "2020-08-25T11:56:37.895Z",
+ "timeZone": "Asia/Taipei",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CNje96mmtusCENje96mmtusCGAE=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676330938000\"",
+   "id": "4nb8rmb5d6g56npheecl9qlcai",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NG5iOHJtYjVkNmc1Nm5waGVlY2w5cWxjYWkgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:56:05.000Z",
+   "updated": "2020-06-28T09:56:05.469Z",
+   "summary": "本學期學士班（含轉學生、新生）及碩博士班第 2 次選課",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-08-25"
+   },
+   "end": {
+    "date": "2020-09-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4nb8rmb5d6g56npheecl9qlcai@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676355444000\"",
+   "id": "22qji6s6km6l7l6bdr5555h5gb",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjJxamk2czZrbTZsN2w2YmRyNTU1NWg1Z2IgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:56:17.000Z",
+   "updated": "2020-06-28T09:56:17.722Z",
+   "summary": "進修學士班新生（含 1 年級復學生、轉學生）選課",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-08-25"
+   },
+   "end": {
+    "date": "2020-09-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "22qji6s6km6l7l6bdr5555h5gb@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676412734000\"",
+   "id": "3b4vuov0vmeldudurivf83n6hf",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2I0dnVvdjB2bWVsZHVkdXJpdmY4M242aGYgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:56:46.000Z",
+   "updated": "2020-06-28T09:56:46.367Z",
+   "summary": "三峽校區宿舍新生進住",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-04"
+   },
+   "end": {
+    "date": "2020-09-07"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3b4vuov0vmeldudurivf83n6hf@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676428120000\"",
+   "id": "7t8qq9ob92efu9vmouschfviro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3Q4cXE5b2I5MmVmdTl2bW91c2NoZnZpcm8gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:56:54.000Z",
+   "updated": "2020-06-28T09:56:54.060Z",
+   "summary": "新生家長座談會",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-05"
+   },
+   "end": {
+    "date": "2020-09-06"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7t8qq9ob92efu9vmouschfviro@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676450296000\"",
+   "id": "59cqmvs8g8dt69dctnmd8d27bj",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NTljcW12czhnOGR0NjlkY3RubWQ4ZDI3YmogaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:57:05.000Z",
+   "updated": "2020-06-28T09:57:05.148Z",
+   "summary": "臺北校區宿舍新生進住",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-06"
+   },
+   "end": {
+    "date": "2020-09-12"
+   },
+   "transparency": "transparent",
+   "iCalUID": "59cqmvs8g8dt69dctnmd8d27bj@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676475858000\"",
+   "id": "6s6u2mghelpm49qm55rohn5qbg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnM2dTJtZ2hlbHBtNDlxbTU1cm9objVxYmcgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:57:17.000Z",
+   "updated": "2020-06-28T09:57:17.929Z",
+   "summary": "學士班新生（含外國學位生）入學報到（繳驗學歷身分證件）",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-07"
+   },
+   "end": {
+    "date": "2020-09-08"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6s6u2mghelpm49qm55rohn5qbg@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676508114000\"",
+   "id": "465uhu5umg33hi16b0eaostub5",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NDY1dWh1NXVtZzMzaGkxNmIwZWFvc3R1YjUgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:57:34.000Z",
+   "updated": "2020-06-28T09:57:34.057Z",
+   "summary": "學士班、碩士班及博士班新生（含轉學生）入學體格檢查",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-07"
+   },
+   "end": {
+    "date": "2020-09-08"
+   },
+   "transparency": "transparent",
+   "iCalUID": "465uhu5umg33hi16b0eaostub5@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676561232000\"",
+   "id": "03vbmjv8omk6i0kg5i1q4sghi1",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDN2Ym1qdjhvbWs2aTBrZzVpMXE0c2doaTEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:58:00.000Z",
+   "updated": "2020-06-28T09:58:00.616Z",
+   "summary": "學士班（含轉學生）新生導航活動",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-08"
+   },
+   "end": {
+    "date": "2020-09-10"
+   },
+   "transparency": "transparent",
+   "iCalUID": "03vbmjv8omk6i0kg5i1q4sghi1@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676575534000\"",
+   "id": "4336dibm9dnqa36kqc0moestcp",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NDMzNmRpYm05ZG5xYTM2a3FjMG1vZXN0Y3AgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:58:07.000Z",
+   "updated": "2020-06-28T09:58:07.767Z",
+   "summary": "註冊繳費截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-09"
+   },
+   "end": {
+    "date": "2020-09-10"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4336dibm9dnqa36kqc0moestcp@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676610712000\"",
+   "id": "4k8eflhfan72llgoun8hm3n42n",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGs4ZWZsaGZhbjcybGxnb3VuOGhtM240Mm4gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:58:25.000Z",
+   "updated": "2020-06-28T09:58:25.356Z",
+   "summary": "日間學士班新生（含僑生、陸生及非英語為母語之外籍生新生）參加校內英文能力測驗",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-09"
+   },
+   "end": {
+    "date": "2020-09-10"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4k8eflhfan72llgoun8hm3n42n@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676634146000\"",
+   "id": "2u1eslku25svjgk1bvd5dh4at6",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MnUxZXNsa3UyNXN2amdrMWJ2ZDVkaDRhdDYgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:58:37.000Z",
+   "updated": "2020-06-28T09:58:37.073Z",
+   "summary": "進修學士班新生入學輔導",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-11"
+   },
+   "end": {
+    "date": "2020-09-12"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2u1eslku25svjgk1bvd5dh4at6@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676694866000\"",
+   "id": "1c0c07gnufv92ivgrsi1mkbgj1",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWMwYzA3Z251ZnY5Mml2Z3JzaTFta2JnajEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:59:07.000Z",
+   "updated": "2020-06-28T09:59:07.433Z",
+   "summary": "暑假終了",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-11"
+   },
+   "end": {
+    "date": "2020-09-12"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1c0c07gnufv92ivgrsi1mkbgj1@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676716834000\"",
+   "id": "7s9dbtdg0bpse7jdbjgn1ns408",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3M5ZGJ0ZGcwYnBzZTdqZGJqZ24xbnM0MDggaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:59:18.000Z",
+   "updated": "2020-06-28T09:59:18.417Z",
+   "summary": "進修學士班及碩士在職專班新生（含轉學生）入學體格檢查",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-12"
+   },
+   "end": {
+    "date": "2020-09-13"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7s9dbtdg0bpse7jdbjgn1ns408@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676728474000\"",
+   "id": "790f8og33hrk3gvl6vh9j4khgm",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzkwZjhvZzMzaHJrM2d2bDZ2aDlqNGtoZ20gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:59:24.000Z",
+   "updated": "2020-06-28T09:59:24.237Z",
+   "summary": "開始上課",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-14"
+   },
+   "end": {
+    "date": "2020-09-15"
+   },
+   "transparency": "transparent",
+   "iCalUID": "790f8og33hrk3gvl6vh9j4khgm@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676745284000\"",
+   "id": "26kld62qp74ek54plkra6u38t7",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjZrbGQ2MnFwNzRlazU0cGxrcmE2dTM4dDcgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:59:32.000Z",
+   "updated": "2020-06-28T09:59:32.642Z",
+   "summary": "碩士班、碩士在職專班、博士班學生開始舉行論文考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-14"
+   },
+   "end": {
+    "date": "2020-09-15"
+   },
+   "transparency": "transparent",
+   "iCalUID": "26kld62qp74ek54plkra6u38t7@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676768990000\"",
+   "id": "3sqegh0qnv7f0v5jmddacl7lkm",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M3NxZWdoMHFudjdmMHY1am1kZGFjbDdsa20gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:59:44.000Z",
+   "updated": "2020-06-28T09:59:44.495Z",
+   "summary": "加退選課程",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-15"
+   },
+   "end": {
+    "date": "2020-09-25"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3sqegh0qnv7f0v5jmddacl7lkm@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676785040000\"",
+   "id": "498ch75m02vhsnlbqgma3msfhm",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NDk4Y2g3NW0wMnZoc25sYnFnbWEzbXNmaG0gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:59:52.000Z",
+   "updated": "2020-06-28T09:59:52.520Z",
+   "summary": "抵免學分受理申請",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-15"
+   },
+   "end": {
+    "date": "2020-09-25"
+   },
+   "transparency": "transparent",
+   "iCalUID": "498ch75m02vhsnlbqgma3msfhm@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676812308000\"",
+   "id": "5gl5dgi5imjcge5c63rahngp7n",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWdsNWRnaTVpbWpjZ2U1YzYzcmFobmdwN24gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:00:06.000Z",
+   "updated": "2020-06-28T10:00:06.154Z",
+   "summary": "日間學士班新生持校外英檢成績申請抵免或免修大學英語文課程之截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-16"
+   },
+   "end": {
+    "date": "2020-09-17"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5gl5dgi5imjcge5c63rahngp7n@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676858508000\"",
+   "id": "15sps2rgqbm0tnmt0rm67g6mbt",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MTVzcHMycmdxYm0wdG5tdDBybTY3ZzZtYnQgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:00:16.000Z",
+   "updated": "2020-06-28T10:00:29.254Z",
+   "summary": "任課教師補送學年度第 2 學期成績截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-21"
+   },
+   "end": {
+    "date": "2020-09-22"
+   },
+   "iCalUID": "15sps2rgqbm0tnmt0rm67g6mbt@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676883434000\"",
+   "id": "23nllgkini59l3k9k5elf5loog",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjNubGxna2luaTU5bDNrOWs1ZWxmNWxvb2cgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:58:49.000Z",
+   "updated": "2020-06-28T10:00:41.717Z",
+   "summary": "碩士班、碩士在職專班及博士班畢業生辦理學年度第 2 學期離校截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-11"
+   },
+   "end": {
+    "date": "2020-09-12"
+   },
+   "iCalUID": "23nllgkini59l3k9k5elf5loog@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676907764000\"",
+   "id": "69njr94jsbc12d1q4cbnipfdgl",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjluanI5NGpzYmMxMmQxcTRjYm5pcGZkZ2wgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:57:47.000Z",
+   "updated": "2020-06-28T10:00:53.882Z",
+   "summary": "碩士班、碩士在職專班及博士班任課教師繳送學年度第 2 學期成績截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-07"
+   },
+   "end": {
+    "date": "2020-09-08"
+   },
+   "iCalUID": "69njr94jsbc12d1q4cbnipfdgl@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676953324000\"",
+   "id": "1e7ppqknqbmj8akgml26q9heoc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWU3cHBxa25xYm1qOGFrZ21sMjZxOWhlb2MgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:01:16.000Z",
+   "updated": "2020-06-28T10:01:16.662Z",
+   "summary": "地震避難掩護預演",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-22"
+   },
+   "end": {
+    "date": "2020-09-23"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1e7ppqknqbmj8akgml26q9heoc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676967858000\"",
+   "id": "6matk2nsnobi4ech5t7451negd",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nm1hdGsybnNub2JpNGVjaDV0NzQ1MW5lZ2QgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:01:23.000Z",
+   "updated": "2020-06-28T10:01:23.929Z",
+   "summary": "地震避難掩護正式演練",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-24"
+   },
+   "end": {
+    "date": "2020-09-25"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6matk2nsnobi4ech5t7451negd@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186676988958000\"",
+   "id": "0qb8uiljf4l32ataogbhjvjbaq",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHFiOHVpbGpmNGwzMmF0YW9nYmhqdmpiYXEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:01:34.000Z",
+   "updated": "2020-06-28T10:01:34.479Z",
+   "summary": "補行上班（補 10/2 調整放假）",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-26"
+   },
+   "end": {
+    "date": "2020-09-27"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0qb8uiljf4l32ataogbhjvjbaq@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677001990000\"",
+   "id": "5ppn91ljrdkh5qjo4mt63cgpd9",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NXBwbjkxbGpyZGtoNXFqbzRtdDYzY2dwZDkgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:01:40.000Z",
+   "updated": "2020-06-28T10:01:40.995Z",
+   "summary": "補註冊日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-29"
+   },
+   "end": {
+    "date": "2020-09-30"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5ppn91ljrdkh5qjo4mt63cgpd9@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677034340000\"",
+   "id": "69dibi4r9cb0ietnuv3qriqik1",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjlkaWJpNHI5Y2IwaWV0bnV2M3FyaXFpazEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:01:57.000Z",
+   "updated": "2020-06-28T10:01:57.170Z",
+   "summary": "線上選課確認（程序或方式依學校網頁公告辦理）",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-09-29"
+   },
+   "end": {
+    "date": "2020-10-08"
+   },
+   "transparency": "transparent",
+   "iCalUID": "69dibi4r9cb0ietnuv3qriqik1@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677070866000\"",
+   "id": "79rqcvumgkr1oilokf61bp0080",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzlycWN2dW1na3Ixb2lsb2tmNjFicDAwODAgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:02:15.000Z",
+   "updated": "2020-06-28T10:02:15.433Z",
+   "summary": "中秋節放假 1 天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-10-01"
+   },
+   "end": {
+    "date": "2020-10-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "79rqcvumgkr1oilokf61bp0080@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677096152000\"",
+   "id": "3bojv3m7cdguei5ae3idr808hm",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2JvanYzbTdjZGd1ZWk1YWUzaWRyODA4aG0gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:02:28.000Z",
+   "updated": "2020-06-28T10:02:28.076Z",
+   "summary": "調整放假一天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-10-02"
+   },
+   "end": {
+    "date": "2020-10-03"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3bojv3m7cdguei5ae3idr808hm@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677121106000\"",
+   "id": "0v9qvsimstf9nnscqh93n48bcm",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHY5cXZzaW1zdGY5bm5zY3FoOTNuNDhiY20gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:02:40.000Z",
+   "updated": "2020-06-28T10:02:40.553Z",
+   "summary": "補國慶日適逢星期六放假 1 天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-10-09"
+   },
+   "end": {
+    "date": "2020-10-10"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0v9qvsimstf9nnscqh93n48bcm@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677132916000\"",
+   "id": "5rsh1u9nfmp4d9upbdnd50e7kl",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NXJzaDF1OW5mbXA0ZDl1cGJkbmQ1MGU3a2wgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:02:46.000Z",
+   "updated": "2020-06-28T10:02:46.458Z",
+   "summary": "國慶日放假一天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-10-10"
+   },
+   "end": {
+    "date": "2020-10-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5rsh1u9nfmp4d9upbdnd50e7kl@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677163864000\"",
+   "id": "044ji5eo0cllk7tu3926fqhk9p",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDQ0amk1ZW8wY2xsazd0dTM5MjZmcWhrOXAgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:03:01.000Z",
+   "updated": "2020-06-28T10:03:01.932Z",
+   "summary": "運動會（上班；學士班不上課；進修學士班、碩士在職專班正常上課）",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-10-24"
+   },
+   "end": {
+    "date": "2020-10-25"
+   },
+   "transparency": "transparent",
+   "iCalUID": "044ji5eo0cllk7tu3926fqhk9p@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677175892000\"",
+   "id": "4q4mfv5ennlt2vg80spi6amdab",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NHE0bWZ2NWVubmx0MnZnODBzcGk2YW1kYWIgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:03:07.000Z",
+   "updated": "2020-06-28T10:03:07.946Z",
+   "summary": "上課達三分之一",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-10-24"
+   },
+   "end": {
+    "date": "2020-10-25"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4q4mfv5ennlt2vg80spi6amdab@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677199614000\"",
+   "id": "443d7tf835saql5dd4i7mk7oag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NDQzZDd0ZjgzNXNhcWw1ZGQ0aTdtazdvYWcgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:03:19.000Z",
+   "updated": "2020-06-28T10:03:19.807Z",
+   "summary": "本校校慶活動（上班；學士班不上課；進修學士班、碩士在職專班正常上課）",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-10-31"
+   },
+   "end": {
+    "date": "2020-11-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "443d7tf835saql5dd4i7mk7oag@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677226040000\"",
+   "id": "3g1p06l1b6ek7c3mn2bo2hjnam",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2cxcDA2bDFiNmVrN2MzbW4yYm8yaGpuYW0gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:03:32.000Z",
+   "updated": "2020-06-28T10:03:33.020Z",
+   "summary": "本校校慶",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-11-01"
+   },
+   "end": {
+    "date": "2020-11-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3g1p06l1b6ek7c3mn2bo2hjnam@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677245726000\"",
+   "id": "3ph5mttga0dp2kq5de38kp3jb1",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M3BoNW10dGdhMGRwMmtxNWRlMzhrcDNqYjEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:03:42.000Z",
+   "updated": "2020-06-28T10:03:42.863Z",
+   "summary": "學士班期中考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-11-09"
+   },
+   "end": {
+    "date": "2020-11-14"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3ph5mttga0dp2kq5de38kp3jb1@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677262070000\"",
+   "id": "174dpip4013kavtd8lukf7jv2b",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MTc0ZHBpcDQwMTNrYXZ0ZDhsdWtmN2p2MmIgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:03:51.000Z",
+   "updated": "2020-06-28T10:03:51.035Z",
+   "summary": "進修學士班期中考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-11-09"
+   },
+   "end": {
+    "date": "2020-11-15"
+   },
+   "transparency": "transparent",
+   "iCalUID": "174dpip4013kavtd8lukf7jv2b@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677281026000\"",
+   "id": "625p6m09csn9m791tsk214j31e",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjI1cDZtMDljc245bTc5MXRzazIxNGozMWUgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:04:00.000Z",
+   "updated": "2020-06-28T10:04:00.513Z",
+   "summary": "加退選學分費繳費",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-11-09"
+   },
+   "end": {
+    "date": "2020-11-23"
+   },
+   "transparency": "transparent",
+   "iCalUID": "625p6m09csn9m791tsk214j31e@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677299398000\"",
+   "id": "7due2841u2qm2im943ndp17dac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2R1ZTI4NDF1MnFtMmltOTQzbmRwMTdkYWMgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:04:09.000Z",
+   "updated": "2020-06-28T10:04:09.699Z",
+   "summary": "上課達二分之一",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-11-14"
+   },
+   "end": {
+    "date": "2020-11-15"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7due2841u2qm2im943ndp17dac@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677319680000\"",
+   "id": "7a8vjgrs1sk8h39l5bdvu6khec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2E4dmpncnMxc2s4aDM5bDViZHZ1NmtoZWMgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:04:19.000Z",
+   "updated": "2020-06-28T10:04:19.840Z",
+   "summary": "申請棄修課程",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-11-16"
+   },
+   "end": {
+    "date": "2020-11-28"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7a8vjgrs1sk8h39l5bdvu6khec@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677345684000\"",
+   "id": "6adarfc3m3tsihi5qsjcilkb4b",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmFkYXJmYzNtM3RzaWhpNXFzamNpbGtiNGIgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:04:32.000Z",
+   "updated": "2020-06-28T10:04:32.842Z",
+   "summary": "上課達三分之二",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-12-05"
+   },
+   "end": {
+    "date": "2020-12-06"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6adarfc3m3tsihi5qsjcilkb4b@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677403714000\"",
+   "id": "35sn74k51eslaunbiccfv3u7dq",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MzVzbjc0azUxZXNsYXVuYmljY2Z2M3U3ZHEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:04:52.000Z",
+   "updated": "2020-06-28T10:05:01.857Z",
+   "summary": "109 學年度第 2 學期學士班及碩博士班第 1 次選課",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-12-29"
+   },
+   "end": {
+    "date": "2021-01-05"
+   },
+   "transparency": "transparent",
+   "iCalUID": "35sn74k51eslaunbiccfv3u7dq@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677440738000\"",
+   "id": "6k5b25e3jucfpg9hemrbcr922m",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nms1YjI1ZTNqdWNmcGc5aGVtcmJjcjkyMm0gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:05:20.000Z",
+   "updated": "2020-06-28T10:05:20.369Z",
+   "summary": "進修學士班暨碩士在職專班選課",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-12-29"
+   },
+   "end": {
+    "date": "2021-01-05"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6k5b25e3jucfpg9hemrbcr922m@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677457920000\"",
+   "id": "318hqh6hfimfc0lkin7c201g8u",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MzE4aHFoNmhmaW1mYzBsa2luN2MyMDFnOHUgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:05:28.000Z",
+   "updated": "2020-06-28T10:05:28.960Z",
+   "summary": "碩士班、碩士在職專班及博士班學生論文考試申請截止",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-12-31"
+   },
+   "end": {
+    "date": "2021-01-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "318hqh6hfimfc0lkin7c201g8u@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677470166000\"",
+   "id": "5gitg37ur949e5fe1ai3kf5r61",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWdpdGczN3VyOTQ5ZTVmZTFhaTNrZjVyNjEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:05:35.000Z",
+   "updated": "2020-06-28T10:05:35.083Z",
+   "summary": "完成學士班及進修學士班畢業資格初審",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-12-31"
+   },
+   "end": {
+    "date": "2021-01-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5gitg37ur949e5fe1ai3kf5r61@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677495872000\"",
+   "id": "0q790ajp1prq7uvsvmbts1pltq",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHE3OTBhanAxcHJxN3V2c3ZtYnRzMXBsdHEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:05:47.000Z",
+   "updated": "2020-06-28T10:05:47.936Z",
+   "summary": "開國紀念日放假一天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-01"
+   },
+   "end": {
+    "date": "2021-01-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0q790ajp1prq7uvsvmbts1pltq@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677509430000\"",
+   "id": "07q4unfd22cg5db3mjlpbdl5el",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDdxNHVuZmQyMmNnNWRiM21qbHBiZGw1ZWwgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:05:54.000Z",
+   "updated": "2020-06-28T10:05:54.715Z",
+   "summary": "本學期最後上課日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-08"
+   },
+   "end": {
+    "date": "2021-01-09"
+   },
+   "transparency": "transparent",
+   "iCalUID": "07q4unfd22cg5db3mjlpbdl5el@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677527968000\"",
+   "id": "2rq3s5gokacl8893dbklelpfr4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MnJxM3M1Z29rYWNsODg5M2Ria2xlbHBmcjQgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:06:03.000Z",
+   "updated": "2020-06-28T10:06:03.984Z",
+   "summary": "學士班申請本學期休學截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-08"
+   },
+   "end": {
+    "date": "2021-01-09"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2rq3s5gokacl8893dbklelpfr4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677538078000\"",
+   "id": "4m2g754u2btdvt7kf4rk92jtgq",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NG0yZzc1NHUyYnRkdnQ3a2Y0cms5Mmp0Z3EgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:06:09.000Z",
+   "updated": "2020-06-28T10:06:09.039Z",
+   "summary": "進修學士班最後上課日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-09"
+   },
+   "end": {
+    "date": "2021-01-10"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4m2g754u2btdvt7kf4rk92jtgq@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677555752000\"",
+   "id": "57l11eg9re0ofctmn948eq93qi",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NTdsMTFlZzlyZTBvZmN0bW45NDhlcTkzcWkgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:06:17.000Z",
+   "updated": "2020-06-28T10:06:17.876Z",
+   "summary": "完成學士班及進修學士班畢業資格複審",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-10"
+   },
+   "end": {
+    "date": "2021-01-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "57l11eg9re0ofctmn948eq93qi@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677573666000\"",
+   "id": "1or27qr8ohdl2n1v33jqh491lp",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MW9yMjdxcjhvaGRsMm4xdjMzanFoNDkxbHAgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:06:26.000Z",
+   "updated": "2020-06-28T10:06:26.833Z",
+   "summary": "學士班期末考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-11"
+   },
+   "end": {
+    "date": "2021-01-16"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1or27qr8ohdl2n1v33jqh491lp@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677589000000\"",
+   "id": "1uqhn65jvl79smnahekbvfdbgb",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MXVxaG42NWp2bDc5c21uYWhla2J2ZmRiZ2IgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:06:34.000Z",
+   "updated": "2020-06-28T10:06:34.500Z",
+   "summary": "進修學士班期末考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-11"
+   },
+   "end": {
+    "date": "2021-01-17"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1uqhn65jvl79smnahekbvfdbgb@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677602766000\"",
+   "id": "38ssrfbol6u93hj2d05vhpnqba",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Mzhzc3JmYm9sNnU5M2hqMmQwNXZocG5xYmEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:06:41.000Z",
+   "updated": "2020-06-28T10:06:41.383Z",
+   "summary": "寒假開始",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-18"
+   },
+   "end": {
+    "date": "2021-01-19"
+   },
+   "transparency": "transparent",
+   "iCalUID": "38ssrfbol6u93hj2d05vhpnqba@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677629838000\"",
+   "id": "2nmusdc0qb97bb8ugg32aqrasu",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Mm5tdXNkYzBxYjk3YmI4dWdnMzJhcXJhc3UgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:06:54.000Z",
+   "updated": "2020-06-28T10:06:54.919Z",
+   "summary": "109 學年度第 2 學期學士班及碩博士班第 2 次選課",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-19"
+   },
+   "end": {
+    "date": "2021-01-26"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2nmusdc0qb97bb8ugg32aqrasu@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677687908000\"",
+   "id": "0qkenh2v7ojql1p9bns8g8jgav",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHFrZW5oMnY3b2pxbDFwOWJuczhnOGpnYXYgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:07:17.000Z",
+   "updated": "2020-06-28T10:07:23.954Z",
+   "summary": "學士班及進修學士班開課於4 年級班任課教師繳送學年度第1 學期成績截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-26"
+   },
+   "end": {
+    "date": "2021-01-27"
+   },
+   "iCalUID": "0qkenh2v7ojql1p9bns8g8jgav@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677707398000\"",
+   "id": "7l6ntllimou48mspkl7kmjllfj",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2w2bnRsbGltb3U0OG1zcGtsN2ttamxsZmogaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:07:33.000Z",
+   "updated": "2020-06-28T10:07:33.699Z",
+   "summary": "碩士班及博士班申請本學期休學截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-29"
+   },
+   "end": {
+    "date": "2021-01-30"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7l6ntllimou48mspkl7kmjllfj@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677734360000\"",
+   "id": "6qopt40nkd3ofpn4dgff0gg8jp",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnFvcHQ0MG5rZDNvZnBuNGRnZmYwZ2c4anAgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:07:47.000Z",
+   "updated": "2020-06-28T10:07:47.180Z",
+   "summary": "學士班及進修學士班輔系、雙主修線上申請",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-29"
+   },
+   "end": {
+    "date": "2021-02-09"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6qopt40nkd3ofpn4dgff0gg8jp@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677773958000\"",
+   "id": "5n28q4im5emm695mtt7jdne3gp",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW4yOHE0aW01ZW1tNjk1bXR0N2pkbmUzZ3AgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:08:06.000Z",
+   "updated": "2020-06-28T10:08:06.979Z",
+   "summary": "碩士班、碩士在職專班及博士班學生結束舉行論文考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-31"
+   },
+   "end": {
+    "date": "2021-02-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5n28q4im5emm695mtt7jdne3gp@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186677786090000\"",
+   "id": "7rdf3deaoc8fur00mcetq71s49",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3JkZjNkZWFvYzhmdXIwMG1jZXRxNzFzNDkgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:08:13.000Z",
+   "updated": "2020-06-28T10:08:13.045Z",
+   "summary": "第 1 學期結束",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-01-31"
+   },
+   "end": {
+    "date": "2021-02-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7rdf3deaoc8fur00mcetq71s49@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678214726000\"",
+   "id": "13bvkrmpmaa9v9d383cu53tnh1",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MTNidmtybXBtYWE5djlkMzgzY3U1M3RuaDEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:11:47.000Z",
+   "updated": "2020-06-28T10:11:47.363Z",
+   "summary": "第 2 學期開始",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-01"
+   },
+   "end": {
+    "date": "2021-02-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "13bvkrmpmaa9v9d383cu53tnh1@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678249378000\"",
+   "id": "25fob58lffn5n46tmg15tghn0r",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjVmb2I1OGxmZm41bjQ2dG1nMTV0Z2huMHIgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:11:56.000Z",
+   "updated": "2020-06-28T10:12:04.689Z",
+   "summary": "學士班、進修學士班任課教師繳送學年度第1 學期成績截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-02"
+   },
+   "end": {
+    "date": "2021-02-03"
+   },
+   "iCalUID": "25fob58lffn5n46tmg15tghn0r@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678275514000\"",
+   "id": "6mjggc3mk1qc5c82f49m34vm44",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nm1qZ2djM21rMXFjNWM4MmY0OW0zNHZtNDQgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:12:17.000Z",
+   "updated": "2020-06-28T10:12:17.757Z",
+   "summary": "陸續寄發學士班、進修學士班成績單",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-03"
+   },
+   "end": {
+    "date": "2021-02-04"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6mjggc3mk1qc5c82f49m34vm44@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678289040000\"",
+   "id": "3h4401jfk5itobcut5kgcr6ni2",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2g0NDAxamZrNWl0b2JjdXQ1a2djcjZuaTIgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:12:24.000Z",
+   "updated": "2020-06-28T10:12:24.520Z",
+   "summary": "調整放假一天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-10"
+   },
+   "end": {
+    "date": "2021-02-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3h4401jfk5itobcut5kgcr6ni2@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678302368000\"",
+   "id": "5qurlvf1qkbnv7n85l20v00pvo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NXF1cmx2ZjFxa2JudjduODVsMjB2MDBwdm8gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:12:31.000Z",
+   "updated": "2020-06-28T10:12:31.184Z",
+   "summary": "農曆除夕放假",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-11"
+   },
+   "end": {
+    "date": "2021-02-12"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5qurlvf1qkbnv7n85l20v00pvo@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678344162000\"",
+   "id": "1428c9sjjc1l75mvjaal5krpi1",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MTQyOGM5c2pqYzFsNzVtdmphYWw1a3JwaTEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:12:52.000Z",
+   "updated": "2020-06-28T10:12:52.081Z",
+   "summary": "春節放假（2/15、16 補春節初二、初三適逢星期六、日調整放假二天）",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-12"
+   },
+   "end": {
+    "date": "2021-02-17"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1428c9sjjc1l75mvjaal5krpi1@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678386052000\"",
+   "id": "2ou61hv1jh8ir5lmcho55b1pj3",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Mm91NjFodjFqaDhpcjVsbWNobzU1YjFwajMgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:13:12.000Z",
+   "updated": "2020-06-28T10:13:13.026Z",
+   "summary": "註冊繳費截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-17"
+   },
+   "end": {
+    "date": "2021-02-18"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2ou61hv1jh8ir5lmcho55b1pj3@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678436412000\"",
+   "id": "28cq9hkrqfhnnjhe0u5daf0qe2",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjhjcTloa3JxZmhubmpoZTB1NWRhZjBxZTIgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:13:30.000Z",
+   "updated": "2020-06-28T10:13:38.206Z",
+   "summary": "碩士班、碩士在職專班及博士班任課老師繳送學年度第 1 學期成績截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-17"
+   },
+   "end": {
+    "date": "2021-02-18"
+   },
+   "iCalUID": "28cq9hkrqfhnnjhe0u5daf0qe2@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678470258000\"",
+   "id": "27o6a3mdim3uahugujtuoat69c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjdvNmEzbWRpbTN1YWh1Z3VqdHVvYXQ2OWMgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:13:55.000Z",
+   "updated": "2020-06-28T10:13:55.129Z",
+   "summary": "碩士班、碩士在職專班及博士班畢業生辦理學年度第1 學期離校截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-19"
+   },
+   "end": {
+    "date": "2021-02-20"
+   },
+   "transparency": "transparent",
+   "iCalUID": "27o6a3mdim3uahugujtuoat69c@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678491146000\"",
+   "id": "3ug5gtgcuv50fgugu3eb4om717",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M3VnNWd0Z2N1djUwZmd1Z3UzZWI0b203MTcgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:14:05.000Z",
+   "updated": "2020-06-28T10:14:05.573Z",
+   "summary": "補行上班（補 2/10 調整放假）",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-20"
+   },
+   "end": {
+    "date": "2021-02-21"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3ug5gtgcuv50fgugu3eb4om717@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678507418000\"",
+   "id": "3qa1dm93229icgpgean7v4e83i",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M3FhMWRtOTMyMjlpY2dwZ2Vhbjd2NGU4M2kgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:14:13.000Z",
+   "updated": "2020-06-28T10:14:13.709Z",
+   "summary": "開始上課",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-22"
+   },
+   "end": {
+    "date": "2021-02-23"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3qa1dm93229icgpgean7v4e83i@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678582734000\"",
+   "id": "3lds7kkbkp38srejua7q276luh",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2xkczdra2JrcDM4c3JlanVhN3EyNzZsdWggaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:14:51.000Z",
+   "updated": "2020-06-28T10:14:51.367Z",
+   "summary": "碩士班、碩士在職專班及博士班學生開始舉行論文考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-22"
+   },
+   "end": {
+    "date": "2021-02-23"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3lds7kkbkp38srejua7q276luh@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678603274000\"",
+   "id": "2srfcm98ri1blhj138kulcvg6i",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MnNyZmNtOThyaTFibGhqMTM4a3VsY3ZnNmkgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:15:01.000Z",
+   "updated": "2020-06-28T10:15:01.637Z",
+   "summary": "加退選課程、抵免學分受理申請",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-02-23"
+   },
+   "end": {
+    "date": "2021-03-06"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2srfcm98ri1blhj138kulcvg6i@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678669366000\"",
+   "id": "1vni0ps38ntf0at4gifl495vl2",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MXZuaTBwczM4bnRmMGF0NGdpZmw0OTV2bDIgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:15:34.000Z",
+   "updated": "2020-06-28T10:15:34.683Z",
+   "summary": "補和平紀念日適逢星期日放假 1 天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-03-01"
+   },
+   "end": {
+    "date": "2021-03-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1vni0ps38ntf0at4gifl495vl2@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678694892000\"",
+   "id": "59u35e94hoao7skc4gk6ouj5i1",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NTl1MzVlOTRob2FvN3NrYzRnazZvdWo1aTEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:15:47.000Z",
+   "updated": "2020-06-28T10:15:47.446Z",
+   "summary": "各任課教師補送第 1 學期成績截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-03-02"
+   },
+   "end": {
+    "date": "2021-03-03"
+   },
+   "transparency": "transparent",
+   "iCalUID": "59u35e94hoao7skc4gk6ouj5i1@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678731414000\"",
+   "id": "7orrin72tso2760f7n5oikdgah",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N29ycmluNzJ0c28yNzYwZjduNW9pa2RnYWggaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:16:05.000Z",
+   "updated": "2020-06-28T10:16:05.707Z",
+   "summary": "補註冊日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-03-09"
+   },
+   "end": {
+    "date": "2021-03-10"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7orrin72tso2760f7n5oikdgah@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678753888000\"",
+   "id": "3qhcuk06ia6rria2o1qufgqhv4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M3FoY3VrMDZpYTZycmlhMm8xcXVmZ3FodjQgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:16:16.000Z",
+   "updated": "2020-06-28T10:16:16.944Z",
+   "summary": "線上選課確認（程序或方式依學校網頁公告辦理）",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-03-09"
+   },
+   "end": {
+    "date": "2021-03-16"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3qhcuk06ia6rria2o1qufgqhv4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678793708000\"",
+   "id": "3alk9q7pqapnipdkntb80o1gn4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2FsazlxN3BxYXBuaXBka250YjgwbzFnbjQgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:16:36.000Z",
+   "updated": "2020-06-28T10:16:36.854Z",
+   "summary": "補兒童節適逢星期日放假 1 天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-04-02"
+   },
+   "end": {
+    "date": "2021-04-03"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3alk9q7pqapnipdkntb80o1gn4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678807536000\"",
+   "id": "2sllgv17jr9porv9lkkv2g7oud",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MnNsbGd2MTdqcjlwb3J2OWxra3YyZzdvdWQgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:16:43.000Z",
+   "updated": "2020-06-28T10:16:43.768Z",
+   "summary": "上課達三分之一",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-04-03"
+   },
+   "end": {
+    "date": "2021-04-04"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2sllgv17jr9porv9lkkv2g7oud@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678818838000\"",
+   "id": "1tldic24mfg6nibr2jemil3fen",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MXRsZGljMjRtZmc2bmlicjJqZW1pbDNmZW4gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:16:49.000Z",
+   "updated": "2020-06-28T10:16:49.419Z",
+   "summary": "補民族掃墓節適逢星期日放假 1 天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-04-05"
+   },
+   "end": {
+    "date": "2021-04-06"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1tldic24mfg6nibr2jemil3fen@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678855860000\"",
+   "id": "0kavt31k53bpcj4sc6dtjin987",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGthdnQzMWs1M2JwY2o0c2M2ZHRqaW45ODcgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:16:55.000Z",
+   "updated": "2020-06-28T10:17:07.930Z",
+   "summary": "補年 10 月 24 日運動會放假 1 天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-04-06"
+   },
+   "end": {
+    "date": "2021-04-07"
+   },
+   "iCalUID": "0kavt31k53bpcj4sc6dtjin987@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678890048000\"",
+   "id": "7gdif9v4s1ndumafe66bs6ec2m",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2dkaWY5djRzMW5kdW1hZmU2NmJzNmVjMm0gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:17:18.000Z",
+   "updated": "2020-06-28T10:17:25.024Z",
+   "summary": "補年 10 月 31 日校慶放假 1 天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-04-07"
+   },
+   "end": {
+    "date": "2021-04-08"
+   },
+   "iCalUID": "7gdif9v4s1ndumafe66bs6ec2m@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678917602000\"",
+   "id": "7ng7lvspgi14pvk19jmu5t44q8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N25nN2x2c3BnaTE0cHZrMTlqbXU1dDQ0cTggaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:17:38.000Z",
+   "updated": "2020-06-28T10:17:38.801Z",
+   "summary": "學士班期中考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-04-19"
+   },
+   "end": {
+    "date": "2021-04-24"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7ng7lvspgi14pvk19jmu5t44q8@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678935814000\"",
+   "id": "5264v5ll7mbt4rnqncv0l8l92c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NTI2NHY1bGw3bWJ0NHJucW5jdjBsOGw5MmMgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:17:47.000Z",
+   "updated": "2020-06-28T10:17:47.907Z",
+   "summary": "進修學士班期中考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-04-19"
+   },
+   "end": {
+    "date": "2021-04-25"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5264v5ll7mbt4rnqncv0l8l92c@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678963012000\"",
+   "id": "4v571v2g55n3c582125t0cco97",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NHY1NzF2Mmc1NW4zYzU4MjEyNXQwY2NvOTcgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:18:01.000Z",
+   "updated": "2020-06-28T10:18:01.506Z",
+   "summary": "加退選學分費繳費",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-04-19"
+   },
+   "end": {
+    "date": "2021-05-03"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4v571v2g55n3c582125t0cco97@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186678985542000\"",
+   "id": "78l9klajvsssa508insb7722u7",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzhsOWtsYWp2c3NzYTUwOGluc2I3NzIydTcgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:18:12.000Z",
+   "updated": "2020-06-28T10:18:12.771Z",
+   "summary": "上課達二分之一",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-04-24"
+   },
+   "end": {
+    "date": "2021-04-25"
+   },
+   "transparency": "transparent",
+   "iCalUID": "78l9klajvsssa508insb7722u7@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679005026000\"",
+   "id": "08a8cd078337lo2c7lbvpkuq7c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDhhOGNkMDc4MzM3bG8yYzdsYnZwa3VxN2MgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:18:22.000Z",
+   "updated": "2020-06-28T10:18:22.513Z",
+   "summary": "申請棄修課程",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-04-26"
+   },
+   "end": {
+    "date": "2021-05-08"
+   },
+   "transparency": "transparent",
+   "iCalUID": "08a8cd078337lo2c7lbvpkuq7c@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679063522000\"",
+   "id": "20kpr5ksg86ph6734ctpjpo5dg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjBrcHI1a3NnODZwaDY3MzRjdHBqcG81ZGcgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:18:51.000Z",
+   "updated": "2020-06-28T10:18:51.761Z",
+   "summary": "完成學士班及進修學士班畢業資格初審",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-04-30"
+   },
+   "end": {
+    "date": "2021-05-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "20kpr5ksg86ph6734ctpjpo5dg@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679100352000\"",
+   "id": "3leq5vcn85g2vec7uf6sqshs6r",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2xlcTV2Y244NWcydmVjN3VmNnNxc2hzNnIgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:19:10.000Z",
+   "updated": "2020-06-28T10:19:10.176Z",
+   "summary": "完成學士班及進修學士班畢業資格複審",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-05-10"
+   },
+   "end": {
+    "date": "2021-05-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "3leq5vcn85g2vec7uf6sqshs6r@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679127166000\"",
+   "id": "7sin96upi5aods4c7o8l3e6huc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3Npbjk2dXBpNWFvZHM0YzdvOGwzZTZodWMgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:19:23.000Z",
+   "updated": "2020-06-28T10:19:23.583Z",
+   "summary": "學士班、進修學士班線上申請轉系",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-05-10"
+   },
+   "end": {
+    "date": "2021-05-15"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7sin96upi5aods4c7o8l3e6huc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679145026000\"",
+   "id": "6bhvbocaj0nvbljqggpctmjffm",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmJodmJvY2FqMG52YmxqcWdncGN0bWpmZm0gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:19:32.000Z",
+   "updated": "2020-06-28T10:19:32.513Z",
+   "summary": "上課達三分之二",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-05-15"
+   },
+   "end": {
+    "date": "2021-05-16"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6bhvbocaj0nvbljqggpctmjffm@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679160238000\"",
+   "id": "7cmif51a5qcllv6vokuta6o0g4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2NtaWY1MWE1cWNsbHY2dm9rdXRhNm8wZzQgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:19:40.000Z",
+   "updated": "2020-06-28T10:19:40.119Z",
+   "summary": "端午節放假一天",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-06-14"
+   },
+   "end": {
+    "date": "2021-06-15"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7cmif51a5qcllv6vokuta6o0g4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679206200000\"",
+   "id": "7uufgg3b95996shal491558psk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3V1ZmdnM2I5NTk5NnNoYWw0OTE1NThwc2sgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:20:03.000Z",
+   "updated": "2020-06-28T10:20:03.100Z",
+   "summary": "學士班、進修學士班暑修報名",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-06-14"
+   },
+   "end": {
+    "date": "2021-06-19"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7uufgg3b95996shal491558psk@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679229970000\"",
+   "id": "4u0h9uai8motmm8d4duak92u58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NHUwaDl1YWk4bW90bW04ZDRkdWFrOTJ1NTggaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:20:14.000Z",
+   "updated": "2020-06-28T10:20:14.985Z",
+   "summary": "本學期最後上課日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-06-18"
+   },
+   "end": {
+    "date": "2021-06-19"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4u0h9uai8motmm8d4duak92u58@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679257892000\"",
+   "id": "630fcn5f81cdocqb4k1osc9u13",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjMwZmNuNWY4MWNkb2NxYjRrMW9zYzl1MTMgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:20:28.000Z",
+   "updated": "2020-06-28T10:20:28.946Z",
+   "summary": "學士班申請本學期休學截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-06-18"
+   },
+   "end": {
+    "date": "2021-06-19"
+   },
+   "transparency": "transparent",
+   "iCalUID": "630fcn5f81cdocqb4k1osc9u13@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679278506000\"",
+   "id": "0lo66mak6tomnt68fdjvtcohu7",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGxvNjZtYWs2dG9tbnQ2OGZkanZ0Y29odTcgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:20:39.000Z",
+   "updated": "2020-06-28T10:20:39.253Z",
+   "summary": "畢業典禮",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-06-19"
+   },
+   "end": {
+    "date": "2021-06-20"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0lo66mak6tomnt68fdjvtcohu7@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679297702000\"",
+   "id": "4d054n73kakejrk5lks6opqfga",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGQwNTRuNzNrYWtlanJrNWxrczZvcHFmZ2EgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:20:48.000Z",
+   "updated": "2020-06-28T10:20:48.851Z",
+   "summary": "進修學士班最後上課日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-06-19"
+   },
+   "end": {
+    "date": "2021-06-20"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4d054n73kakejrk5lks6opqfga@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679316582000\"",
+   "id": "0nt8qpugutsl291bp9lhrcm8e6",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MG50OHFwdWd1dHNsMjkxYnA5bGhyY204ZTYgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:20:58.000Z",
+   "updated": "2020-06-28T10:20:58.291Z",
+   "summary": "學士班期末考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-06-21"
+   },
+   "end": {
+    "date": "2021-06-26"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0nt8qpugutsl291bp9lhrcm8e6@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679332832000\"",
+   "id": "5lrs10p3ftfhdq8l8t9rrp051g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWxyczEwcDNmdGZoZHE4bDh0OXJycDA1MWcgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:21:06.000Z",
+   "updated": "2020-06-28T10:21:06.416Z",
+   "summary": "進修學士班期末考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-06-21"
+   },
+   "end": {
+    "date": "2021-06-27"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5lrs10p3ftfhdq8l8t9rrp051g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679345336000\"",
+   "id": "56fqkbt1i03a619spm4n1sh5bl",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NTZmcWtidDFpMDNhNjE5c3BtNG4xc2g1YmwgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:21:12.000Z",
+   "updated": "2020-06-28T10:21:12.668Z",
+   "summary": "暑假開始",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-06-28"
+   },
+   "end": {
+    "date": "2021-06-29"
+   },
+   "transparency": "transparent",
+   "iCalUID": "56fqkbt1i03a619spm4n1sh5bl@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679359354000\"",
+   "id": "1df8gbrag557asrh999ns1gg95",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWRmOGdicmFnNTU3YXNyaDk5OW5zMWdnOTUgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:21:19.000Z",
+   "updated": "2020-06-28T10:21:19.677Z",
+   "summary": "碩士班、碩士在職專班及博士班學生論文考試申請截止",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-06-30"
+   },
+   "end": {
+    "date": "2021-07-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1df8gbrag557asrh999ns1gg95@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679415700000\"",
+   "id": "7m5rc9df9duf55g9q2ddbdkhsj",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N201cmM5ZGY5ZHVmNTVnOXEyZGRiZGtoc2ogaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:21:35.000Z",
+   "updated": "2020-06-28T10:21:47.850Z",
+   "summary": "學士班及進修學士班開課於 4 年級班任課教師繳送學年度第 2 學期成績截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-07-06"
+   },
+   "end": {
+    "date": "2021-07-07"
+   },
+   "iCalUID": "7m5rc9df9duf55g9q2ddbdkhsj@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679430150000\"",
+   "id": "44fqem9727ju9bvv13ql525pqn",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NDRmcWVtOTcyN2p1OWJ2djEzcWw1MjVwcW4gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:21:55.000Z",
+   "updated": "2020-06-28T10:21:55.075Z",
+   "summary": "學士班及進修學士班任課教師繳送成績截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-07-13"
+   },
+   "end": {
+    "date": "2021-07-14"
+   },
+   "transparency": "transparent",
+   "iCalUID": "44fqem9727ju9bvv13ql525pqn@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679446552000\"",
+   "id": "51cr6akst58f408fpsgbfblbem",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NTFjcjZha3N0NThmNDA4ZnBzZ2JmYmxiZW0gaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:22:03.000Z",
+   "updated": "2020-06-28T10:22:03.276Z",
+   "summary": "陸續寄發學士班、進修學士班成績單",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-07-14"
+   },
+   "end": {
+    "date": "2021-07-15"
+   },
+   "transparency": "transparent",
+   "iCalUID": "51cr6akst58f408fpsgbfblbem@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679462758000\"",
+   "id": "67q2621nbqqvbtugui2vrhvrbc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjdxMjYyMW5icXF2YnR1Z3VpMnZyaHZyYmMgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:22:11.000Z",
+   "updated": "2020-06-28T10:22:11.379Z",
+   "summary": "碩士班及博士班申請本學期休學截止日",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-07-30"
+   },
+   "end": {
+    "date": "2021-07-31"
+   },
+   "transparency": "transparent",
+   "iCalUID": "67q2621nbqqvbtugui2vrhvrbc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679479926000\"",
+   "id": "6pn1rq5s5edm4f3u03ljps9mn1",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnBuMXJxNXM1ZWRtNGYzdTAzbGpwczltbjEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:22:19.000Z",
+   "updated": "2020-06-28T10:22:19.963Z",
+   "summary": "碩士在職專班學生結束舉行論文考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-07-30"
+   },
+   "end": {
+    "date": "2021-07-31"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6pn1rq5s5edm4f3u03ljps9mn1@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679498984000\"",
+   "id": "7jhlvcjtu0ee5igach5vp4ukvf",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2pobHZjanR1MGVlNWlnYWNoNXZwNHVrdmYgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:22:29.000Z",
+   "updated": "2020-06-28T10:22:29.492Z",
+   "summary": "碩士班及博士班學生結束舉行論文考試",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-07-31"
+   },
+   "end": {
+    "date": "2021-08-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "7jhlvcjtu0ee5igach5vp4ukvf@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3186679513342000\"",
+   "id": "5hmh19gcfu57p3uq0ro0but102",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWhtaDE5Z2NmdTU3cDN1cTBybzBidXQxMDIgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T10:22:36.000Z",
+   "updated": "2020-06-28T10:22:36.671Z",
+   "summary": "第 2 學期結束",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2021-07-31"
+   },
+   "end": {
+    "date": "2021-08-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5hmh19gcfu57p3uq0ro0but102@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3192323047030000\"",
+   "id": "2anthrbh06262bml32fg46ijkd",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MmFudGhyYmgwNjI2MmJtbDMyZmc0Nmlqa2QgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:55:07.000Z",
+   "updated": "2020-07-31T02:12:03.515Z",
+   "summary": "第一學期開始",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-08-01"
+   },
+   "end": {
+    "date": "2020-08-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2anthrbh06262bml32fg46ijkd@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3192323052192000\"",
+   "id": "07fuo78pscs888mg8nm122v2tv",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDdmdW83OHBzY3M4ODhtZzhubTEyMnYydHYgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:55:20.000Z",
+   "updated": "2020-07-31T02:12:06.096Z",
+   "summary": "學士班及進修學士班輔系、雙主修線上申請",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-08-01"
+   },
+   "end": {
+    "date": "2020-08-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "07fuo78pscs888mg8nm122v2tv@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3192856918230000\"",
+   "id": "24e31fe3ddceoki7o8dcutusqa",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjRlMzFmZTNkZGNlb2tpN284ZGN1dHVzcWEgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:55:50.000Z",
+   "updated": "2020-08-03T04:20:59.115Z",
+   "summary": "進修學士班（含 2-5 年級復學生）及碩士在職專班選課",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-08-04"
+   },
+   "end": {
+    "date": "2020-08-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "24e31fe3ddceoki7o8dcutusqa@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3192856921134000\"",
+   "id": "5k12fiar83etahg3toacvajhor",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWsxMmZpYXI4M2V0YWhnM3RvYWN2YWpob3IgaXUwdmI3OTdxbnRkaDFvZGpjb25kMXYyNGtAZw",
+   "created": "2020-06-28T09:55:30.000Z",
+   "updated": "2020-08-03T04:21:00.567Z",
+   "summary": "本學期學士班及碩博士班第 1 次選課",
+   "creator": {
+    "email": "s5048218@gmail.com"
+   },
+   "organizer": {
+    "email": "iu0vb797qntdh1odjcond1v24k@group.calendar.google.com",
+    "displayName": "國立臺北大學 109 學年度行事曆",
+    "self": true
+   },
+   "start": {
+    "date": "2020-08-04"
+   },
+   "end": {
+    "date": "2020-08-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5k12fiar83etahg3toacvajhor@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   }
+  }
+ ]
+}

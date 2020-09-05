@@ -42,6 +42,9 @@ library(dplyr)
 Input {.sidebar}
 -------------------------------------
 
+```{r}
+htmltools::includeHTML("include/announcement.html")
+```
 
 
 Column {.tabset}
