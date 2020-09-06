@@ -62,7 +62,19 @@ $(".section.sidebar").css("padding-top","10px")
   .css("padding-bottom","10px")
 });
 </script>
+<script src="https://player.vimeo.com/api/player.js"></script>
+<script>
+    var iframe = document.querySelector('iframe');
+    var player = new Vimeo.Player(iframe);
 
+    player.on('play', function() {
+        console.log('played the video!');
+    });
+
+    player.getVideoTitle().then(function(title) {
+        console.log('title:', title);
+    });
+</script>
 <!--
 <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
 -->
